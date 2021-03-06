@@ -1,0 +1,9 @@
+.hero {
+  height: 20vh;
+  width: 100%;
+  background-color: aqua;
+
+  &:hover {
+    background-color: bisque;
+  }
+}
